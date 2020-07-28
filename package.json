@@ -1,0 +1,26 @@
+{
+  "name": "jest-constructor",
+  "version": "1.0.0",
+  "description": "Jest and constructor",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukul2016/jest-another-RPG.git"
+  },
+  "keywords": [
+    "jest",
+    "constructor"
+  ],
+  "author": "MukulS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mukul2016/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/mukul2016/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
